@@ -1,2 +1,2 @@
-# site
-Site-ul pentru clubul de informatica SBCod!
+# Clubul de Informatica SBCod Zalau.
+Bun venit la website!
