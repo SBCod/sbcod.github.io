@@ -1,5 +1,5 @@
 # SBCod
-SBCod este clubul de informatica al scolii gimnaziale Simion Barnutiu din Zalau.
+SBCod este Clubul de informatica al Scolii Gimnaziale Simion Barnutiu Zalau.
 
 ## Conturi Sociale
 - Email: [SBCod.zalau@gmail.com](https://mail.google.com/)
