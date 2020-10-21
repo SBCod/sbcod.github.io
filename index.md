@@ -1,6 +1,6 @@
 ![SBCod Logo](https://i.ibb.co/NtB11Fj/image.png)
 
-# SBCod ![SBCod Logo](https://i.ibb.co/gMBzJTq/image.png)
+# SBCod
 SBCod este clubul de informatica al scolii gimnaziale Simion Barnutiu din Zalau.
 
 ## Conturi Sociale
