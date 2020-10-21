@@ -10,6 +10,10 @@ SBCod este clubul de informatica al scolii gimnaziale Simion Barnutiu din Zalau.
 TBA
 
 ## Proiecte
-TBA
+### Code Kids Fest 2020
+Am participat la _Targul Judetean de Stiinta si Tehnologie pentru Copii CODE KIDS FEST_ cu [videoclipul nostru de prezentare](https://www.youtube.com/channel/UCEU6mIzOVlCUVx2vVRKi8mg] si jocul educational _Robot's Mind_.
+![Code Kids Fest afis](https://i.ibb.co/M6x7tCn/Afi-CODE-KIDS-FEST-2020-Salaj.jpg)
+#### Robot's Mind
+Robot's Mind este un joculet educational construit pe platforma DiamondFire, o platforma care permite creearea jocurilor video pe Minecraft. Acesta este un joc despre 3 roboti ce se intrec intr-o cursa, raspunzand la intrebari trivia.
 
 ![SBCod Logo](https://i.ibb.co/NtB11Fj/image.png)
