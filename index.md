@@ -15,9 +15,9 @@ Participarea la _Targul Judetean de Stiinta si Tehnologie pentru Copii CODE KIDS
 #### Robot's Mind
 Robot's Mind este un joculet educational construit pe platforma DiamondFire, o platforma care permite creearea jocurilor video pe Minecraft. Acesta este un joc despre 3 roboti ce se intrec intr-o cursa, raspunzand la intrebari trivia.
 #### Participanti
-- Petrean Roland - 11 ani (Python, DiamondFire)
-- Szeredai Robert - 12 ani (Editare video, DiamondFire)
-- Curea Raul - 11 ani (DiamondFire)
+- Petrean Roland - 11 ani (Python, C++, DiamondFire)
+- Szeredai Robert - 12 ani (Editare video, C++, DiamondFire)
+- Curea Raul - 11 ani (C++, DiamondFire)
 
 ![Code Kids Fest afis](https://i.ibb.co/M6x7tCn/Afi-CODE-KIDS-FEST-2020-Salaj.jpg)
 
