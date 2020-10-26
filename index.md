@@ -8,7 +8,7 @@ Noi suntem clubul de informatica SBCod din Scoala Gimnaziala Simion Barnutiu Zal
 
 ## Conturi Sociale
 - Email: [SBCod.zalau@gmail.com](https://mail.google.com/)
-- YouTube: [SBCod Zalau](https://www.youtube.com/channel/UCEU6mIzOVlCUVx2vVRKi8mg)
+- YouTube: [SBCod Zalau](https://www.youtube.com/watch?v=2-JiN-3wGhw)
 - Website: [https://sbcod.github.io/SBCod/](https://sbcod.github.io/SBCod/)
 
 ## Membrii
