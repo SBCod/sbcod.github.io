@@ -14,10 +14,12 @@ Noi suntem clubul de informatica SBCod din Scoală Gimnaziala Simion Bărnuțiu 
 ## Membrii
 #### Coordonator
 - Loredana Gavriș
+
 #### Avansaţi
 - Roland Petrean
 - Robert Szeredai
 - Raul Curea
+
 #### Începători
 TBA
 
