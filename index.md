@@ -32,5 +32,3 @@ Robot's Mind este un joculeț educațional construit pe platforma DiamondFire, o
 - Curea Raul - 11 ani (C++, DiamondFire)
 
 ![Code Kids Fest afiș](https://i.ibb.co/M6x7tCn/Afi-CODE-KIDS-FEST-2020-Salaj.jpg)
-
-![SBCod Logo](https://i.ibb.co/NtB11Fj/image.png)
