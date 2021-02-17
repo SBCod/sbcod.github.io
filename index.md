@@ -14,8 +14,11 @@ Noi suntem clubul de informatica SBCod din Şcoala Gimnaziala Simion Bărnuțiu 
 
 #### Avansaţi
 - Roland Petrean
+  - C++, Python, DiamondFire, Godot
 - Robert Szeredai
+  - C++, DiamondFire, Video Editing
 - Raul Curea
+  - C++
 
 #### Începători
 - idk
