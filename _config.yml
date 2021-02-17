@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
 title: SBCod
 description: Site-ul clubului de informatica SBCod.
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+markdown: CommonMarkGhPages
