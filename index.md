@@ -8,7 +8,7 @@ Noi suntem clubul de informatica SBCod din Scoală Gimnaziala Simion Bărnuțiu 
 
 ## Conturi Sociale
 - Email: [SBCod.zalau@gmail.com](https://mail.google.com/)
-- YouTube: [SBCod Zalău](https://www.youtube.com/watch?v=2-JiN-3wGhw)
+- YouTube: [SBCod Zalău](https://www.youtube.com/channel/UCEU6mIzOVlCUVx2vVRKi8mg)
 - Website: [https://sbcod.github.io/SBCod/](https://sbcod.github.io/SBCod/)
 
 ## Membrii
@@ -24,4 +24,5 @@ Noi suntem clubul de informatica SBCod din Scoală Gimnaziala Simion Bărnuțiu 
 - idk
 
 ## Proiecte
-[Code Kids Fest 2020](codekidsfest.md)
+- [Code Kids Fest 2020](codekidsfest.md)
+  - Am participat cu [videoclipul nostru de prezentare](https://www.youtube.com/watch?v=2-JiN-3wGhw) şi jocul educaţional _Robot's Mind_.
