@@ -1,7 +1,4 @@
 
-
-
-
 # Ce este SBCod?
 Hello! 
 Noi suntem clubul de informatica SBCod din Scoală Gimnaziala Simion Bărnuțiu Zalău. Clubul a fost înfinţat în anul 2019 din pasiunea pentru informatică a unor copii de clasa a cincea, fiind coordonat de doamna profesoară Loredana Gavriș.
