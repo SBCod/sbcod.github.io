@@ -21,7 +21,7 @@ Noi suntem clubul de informatica SBCod din Scoală Gimnaziala Simion Bărnuțiu 
 - Raul Curea
 
 #### Începători
-TBA
+- idk
 
 ## Proiecte
 <details><summary>Code Kids Fest 2020</summary>
