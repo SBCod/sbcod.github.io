@@ -32,5 +32,3 @@ Robot's Mind este un joculeț educațional construit pe platforma DiamondFire, o
 - Petrean Roland - 11 ani (Python, C++, DiamondFire, Godot)
 - Szeredai Robert - 12 ani (Editare video, C++, DiamondFire)
 - Curea Raul - 11 ani (C++, DiamondFire)
-
-![Code Kids Fest afiș](https://i.ibb.co/M6x7tCn/Afi-CODE-KIDS-FEST-2020-Salaj.jpg)
